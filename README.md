@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Parth!<br><br>💻 I'm a passionate software developer who loves building intuitive and efficient desktop applications. I enjoy solving problems through technology and have a strong focus on Java development and database management.<br><br>🌱 I'm always eager to learn and grow, exploring areas like advanced Java frameworks, database optimization, and creating seamless user experiences through UI/UX design.<br><br>🤝 I believe in collaboration and continuous learning, and I'm always excited to connect with fellow developers and tech enthusiasts
+👋 Hi, I'm Parth!<br><br>💻 I'm a passionate software developer who loves building intuitive and efficient desktop/web applications. I enjoy solving problems through technology and have a strong focus on Java development and database management.<br><br>🌱 I'm always eager to learn and grow, exploring areas like advanced Java frameworks, database optimization, and creating seamless user experiences through UI/UX design.<br><br>🤝 I believe in collaboration and continuous learning, and I'm always excited to connect with fellow developers and tech enthusiasts
 
 
 # 💻 Tech Stack:
