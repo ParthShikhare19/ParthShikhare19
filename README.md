@@ -99,10 +99,10 @@ const parth = {
 
 | 🎯 Goal | 📅 Timeline | 📈 Progress |
 |---------|-------------|-------------|
-| Master Spring Boot | Q1 2025 | ![Progress](https://progress-bar.dev/75?scale=100&title=Progress&suffix=%&width=120&color=babaca&labelColor=000000) |
-| Database Optimization Expertise | Q2 2025 | ![Progress](https://progress-bar.dev/60?scale=100&title=Progress&suffix=%&width=120&color=babaca&labelColor=000000) |
-| Contribute to Open Source | Ongoing | ![Progress](https://progress-bar.dev/45?scale=100&title=Progress&suffix=%&width=120&color=babaca&labelColor=000000) |
-| Build Full-Stack Project | Q1 2025 | ![Progress](https://progress-bar.dev/80?scale=100&title=Progress&suffix=%&width=120&color=babaca&labelColor=000000) |
+| Master Spring Boot | Q1 2025 | ![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Database Optimization Expertise | Q2 2025 | ![Progress](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Contribute to Open Source | Ongoing | ![Progress](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Build Full-Stack Project | Q1 2025 | ![Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 
 </div>
 
@@ -133,13 +133,26 @@ const parth = {
 
 <div align="center">
 
-[![Spotify](https://spotify-readme-theta-coral.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&bar_color=00d9ff&bar_color_cover=1db954)](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP)
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+  <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 <br/>
 
-**🎶 Featured Track:** [**Believer** - *Imagine Dragons*](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) 
+<table>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d0000b273ac6f6a58c0abdc8bbcf73d0d" width="80"/></td>
+    <td>
+      <strong>🎵 Believer</strong><br/>
+      <em>by Imagine Dragons</em><br/>
+      <small>Album: Evolve</small>
+    </td>
+  </tr>
+</table>
 
-![Music](https://img.shields.io/badge/🎵%20Now%20Playing-Believer%20%7C%20Imagine%20Dragons-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000&color=00d9ff)
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+  <img src="https://img.shields.io/badge/▶️%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 </div>
 
@@ -194,11 +207,9 @@ If you like what I do and want to support my work, consider buying me a coffee! 
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParthShikhare19/ParthShikhare19/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParthShikhare19/ParthShikhare19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ParthShikhare19/ParthShikhare19/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 </div>
 
